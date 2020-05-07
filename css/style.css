@@ -1,0 +1,31 @@
+body{
+	/*margin:0;
+	padding: 0;*/
+	font-family: century;
+	background-image: url(../images/image_01.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+table,th,td{
+width: 80%;
+margin: 6% auto;
+border: 2px solid #7b8a91;
+border-collapse: collapse;
+text-align: center;
+font-size: 137%;
+table-layout: fixed;
+background-color: white;
+opacity: .7;
+color: black;
+}
+th,td{
+	padding: 2%;
+	opacity: .9;
+}
+table,td:hover{
+background-color: black;
+color: white;
+/*opacity: .5;*/
+}
